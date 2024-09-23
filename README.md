@@ -24,4 +24,4 @@ A simple weather application that allows users to search for current weather con
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/TirthChhatrala/WeatherApp.git
+   git clone https://github.com/TirthChhatrala/CityWeather.git
